@@ -1,22 +1,14 @@
-Welcome to Lumache's documentation!
+QQ88 – nền tảng giải trí số 1 Việt Nam 2025
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`QQ88 <https://qq88pro.vip/>`_ khẳng định vị thế tiên phong trong ngành game trực tuyến, mang đến hệ sinh thái giải trí đa dạng bao gồm nổ hũ, casino trực tuyến, cá cược thể thao, bắn cá và hàng loạt trò chơi đặc sắc. Sự tin tưởng của người chơi dành cho QQ88 xuất phát từ cam kết minh bạch, tỷ lệ thưởng hấp dẫn cùng thiết kế giao diện tối ưu, hiện đại và dễ dàng thao tác. Với nền tảng vững chắc này, năm 2025 được dự đoán sẽ mở ra những bước tiến vượt bậc, đưa QQ88 chinh phục thêm nhiều thành công mới.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Website: https://qq88pro.vip/
 
-   This project is under active development.
+Số Điện Thoại: 0392998828
 
-Contents
---------
+Email: qq88provip@gmail.com
 
-.. toctree::
-
-   usage
-   api
+Địa chỉ: 1051 Nguyễn Cửu Phú, Tân Kiên, Bình Chánh, Thành Phố Hồ Chí Minh
